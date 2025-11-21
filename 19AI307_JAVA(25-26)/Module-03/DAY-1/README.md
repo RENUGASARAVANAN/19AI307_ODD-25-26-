@@ -52,8 +52,8 @@ To build an inheritance-based Java program that calculates the final price of go
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by : Roselin mary jovita S
-Register Number : 212222230122
+Developed by : Renuga S
+Register Number : 212222230118
 */
 ```
 
@@ -183,6 +183,7 @@ public class GoldRateSystem {
 
 ## RESULT:
 Therefore the program successfully applies different discount rules for regular and premium customers.
+
 
 
 
